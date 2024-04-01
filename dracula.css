@@ -11,6 +11,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   /* text-rendering: geometricPrecision; */
   text-size-adjust: none;
+  scrollbar-color: rgba(68,71,90,100) transparent
 }
 
 /* General vars */
